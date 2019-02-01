@@ -4,5 +4,6 @@
 
 def roll 
   random.rand (1...6)
+  return
   
 end
