@@ -5,5 +5,6 @@
 def roll 
   puts 1 + rand(6)
   2 + rand(6) + rand(6) 
+  rand
   return 
 end
